@@ -1,0 +1,643 @@
+{
+  "common": {
+    "siteMetadata": {
+      "title": "NextSkill - Modern Learning & Career Growth Hub",
+      "description": "Master in-demand technology, creative design, and digital business skills with real-world projects, veteran mentorship, and recognized credentials.",
+      "fontFamily": "Poppins",
+      "icon": "/main logo/header logo.webp"
+    },
+    "Footer": {
+      "logoAlt": "OnlineCourse Logo",
+      "brandTitle": "OnlineCourse",
+      "copyrightText": "© 2026 NextSkill Academy. All rights reserved. Powered By Lestow",
+      "description": "NextSkill empowers ambitious learners worldwide with career-ready capabilities, industry-grade portfolios, and ongoing mentorship from practicing professionals.",
+      "hoursTitle": "Working Hours",
+      "hoursDays": "Mon - Sat:",
+      "hours": "9:00 AM - 7:00 PM\nSunday: Closed",
+      "socialLinks": [
+        {
+          "id": "fb",
+          "icon": "FaFacebookF",
+          "url": "#"
+        },
+        {
+          "id": "ig",
+          "icon": "FaInstagram",
+          "url": "#"
+        },
+        {
+          "id": "in",
+          "icon": "FaLinkedinIn",
+          "url": "#"
+        },
+        {
+          "id": "yt",
+          "icon": "FaYoutube",
+          "url": "#"
+        }
+      ],
+      "quickLinks": [
+        {
+          "id": "ql1",
+          "label": "Overview",
+          "url": "/#hero"
+        },
+        {
+          "id": "ql2",
+          "label": "Why Us",
+          "url": "/#features"
+        },
+        {
+          "id": "ql3",
+          "label": "About Academy",
+          "url": "/#about"
+        },
+        {
+          "id": "ql4",
+          "label": "Specializations",
+          "url": "/#courses"
+        },
+        {
+          "id": "ql5",
+          "label": "Learning Path",
+          "url": "/#process"
+        },
+        {
+          "id": "ql6",
+          "label": "Faculty Mentors",
+          "url": "/#instructors"
+        },
+        {
+          "id": "ql7",
+          "label": "Student Stories",
+          "url": "/#testimonials"
+        },
+        {
+          "id": "ql8",
+          "label": "Contact Us",
+          "url": "/#contact"
+        }
+      ],
+      "servicesLinks": [
+        {
+          "id": "sl1",
+          "label": "Key Advantages",
+          "url": "/#features"
+        },
+        {
+          "id": "sl2",
+          "label": "Top Programs",
+          "url": "/#courses"
+        },
+        {
+          "id": "sl3",
+          "label": "Curriculum Path",
+          "url": "/#process"
+        },
+        {
+          "id": "sl4",
+          "label": "Mentors & Faculty",
+          "url": "/#instructors"
+        },
+        {
+          "id": "sl5",
+          "label": "Admissions Contact",
+          "url": "/#contact"
+        }
+      ],
+      "contactInfo": {
+        "addressTitle": "Our Location",
+        "address": "123 Main St, New York, NY, USA",
+        "phoneTitle": "Call Us",
+        "phone": "+1 000000000",
+        "emailTitle": "Email Us",
+        "email": "info@xyz.com",
+        "hoursTitle": "Working Hours",
+        "hours": "Mon - Sat: 9:00 AM - 6:00 PM",
+        "hoursDays": "Sunday: Closed"
+      },
+      "faqLinks": [
+        {
+          "id": "fq1",
+          "label": "How Can I Set An Event?",
+          "url": "/faq"
+        },
+        {
+          "id": "fq2",
+          "label": "What Venues Do You Use?",
+          "url": "/faq"
+        },
+        {
+          "id": "fq3",
+          "label": "Event Catalogue",
+          "url": "/faq"
+        },
+        {
+          "id": "fq4",
+          "label": "Shipping & Delivery",
+          "url": "/faq"
+        },
+        {
+          "id": "fq5",
+          "label": "What's your dream job?",
+          "url": "/faq"
+        }
+      ],
+      "logo": "/main logo/footer logo.webp",
+      "col2Title": "Navigation",
+      "col3Title": "Featured Programs",
+      "col4Title": "Connect With Us",
+      "supportText": "Support: ",
+      "homeUrl": "/",
+      "scrollTopLabel": "Scroll to top"
+    },
+    "globalUI": {
+      "notFound": {
+        "code": "404",
+        "title": "Oops! Page Not Found",
+        "description": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+        "buttonText": "Back to Home",
+        "buttonUrl": "/"
+      },
+      "courseBreadcrumb": {
+        "homeLabel": "Home",
+        "homeUrl": "/",
+        "listingLabel": "Courses",
+        "listingUrl": "/courses",
+        "bgImage": "/main logo/breadcrumb.webp"
+      },
+      "instructorBreadcrumb": {
+        "homeLabel": "Home",
+        "homeUrl": "/",
+        "listingLabel": "Instructors",
+        "listingUrl": "/instructors",
+        "bgImage": "/main logo/breadcrumb.webp"
+      }
+    }
+  },
+  "categories": {
+    "OnlineCourse": {
+      "sections": {
+        "Header": {
+          "variants": {
+            "OnlineCourseHeader2": {
+              "logo": "/main logo/header logo.webp",
+              "logoAlt": "OnlineCourse Logo",
+              "navLinks": [
+                {
+                  "id": "nl-home",
+                  "label": "Home",
+                  "url": "/#hero"
+                },
+                {
+                  "id": "nl-features",
+                  "label": "Why Choose Us",
+                  "url": "/#features"
+                },
+                {
+                  "id": "nl-about",
+                  "label": "About",
+                  "url": "/#about"
+                },
+                {
+                  "id": "nl-courses",
+                  "label": "Programs",
+                  "url": "/#courses"
+                },
+                {
+                  "id": "nl-process",
+                  "label": "How It Works",
+                  "url": "/#process"
+                },
+                {
+                  "id": "nl-instructors",
+                  "label": "Faculty",
+                  "url": "/#instructors"
+                },
+                {
+                  "id": "nl-testimonials",
+                  "label": "Stories",
+                  "url": "/#testimonials"
+                }
+              ],
+              "contactButton": {
+                "text": "Contact Us ->",
+                "url": "/#contact"
+              },
+              "logoUrl": "/"
+            }
+          }
+        },
+        "Hero": {
+          "variants": {
+            "OnlineCourseHero2": {
+              "subtitle": "Self-Paced & Practical Study",
+              "title1": "Master High-Demand Skills for a",
+              "title2": "Successful Career",
+              "title3": "",
+              "description": "Discover industry-crafted learning tracks, gain actionable experience under veteran guidance, and earn recognized credentials to accelerate your professional journey.",
+              "image1": "/other/hero_book_illustration.webp",
+              "button1": {
+                "text": "Explore Programs ->",
+                "url": "/#courses"
+              },
+              "bottomStats": [
+                {
+                  "id": "bs1",
+                  "icon": "FaUsers",
+                  "number": "15K+",
+                  "label": "Happy Learners",
+                  "bgColor": "var(--color-category-blue)"
+                },
+                {
+                  "id": "bs2",
+                  "icon": "FaBookOpen",
+                  "number": "600+",
+                  "label": "Active Modules",
+                  "bgColor": "var(--color-category-green)"
+                },
+                {
+                  "id": "bs3",
+                  "icon": "FaUserTie",
+                  "number": "180+",
+                  "label": "Leading Mentors",
+                  "bgColor": "var(--color-category-amber)"
+                },
+                {
+                  "id": "bs4",
+                  "icon": "FaChartBar",
+                  "number": "98%",
+                  "label": "Completion Rate",
+                  "bgColor": "var(--color-category-purple)"
+                }
+              ],
+              "title3": "Build a "
+            }
+          }
+        },
+        "WhatWeDo": {
+          "variants": {
+            "OnlineCourseWhatWeDo2": {
+              "subtitle": "The NextSkill Advantage",
+              "title1": "Why Learn With ",
+              "title2": "Our Academy?",
+              "description": "We combine practical project building with personalized guidance so you master concepts faster and stand out to top employers.",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "TbUsers",
+                  "title": "Practicing Specialists",
+                  "description": "Acquire real-world techniques directly from engineers and creative directors currently working in the field."
+                },
+                {
+                  "id": "f2",
+                  "icon": "TbDeviceLaptop",
+                  "title": "Learn on Your Schedule",
+                  "description": "Stream on-demand HD lectures, review transcripts, and code along seamlessly on mobile, tablet, or desktop."
+                },
+                {
+                  "id": "f3",
+                  "icon": "TbCertificate",
+                  "title": "Verifiable Diplomas",
+                  "description": "Receive accredited digital certificates shareable directly to LinkedIn and your professional resume."
+                },
+                {
+                  "id": "f4",
+                  "icon": "TbTrendingUp",
+                  "title": "Career Mentorship",
+                  "description": "Benefit from resume reviews, portfolio evaluations, mock interview prep, and hiring network introductions."
+                }
+              ]
+            }
+          }
+        },
+        "AboutUs": {
+          "variants": {
+            "OnlineCourseAboutUs2": {
+              "subtitle": "DISCOVER OUR MISSION",
+              "title1": "Empowering Ambitious Learners at ",
+              "title2": "NextSkill",
+              "title3": " Every Day",
+              "description": "NextSkill was established on a single principle: quality technical education should be accessible, practical, and directly aligned with modern job roles. We discard outdated textbook theory in favor of build-as-you-learn methodologies.",
+              "image1": "/other/about1.webp",
+              "image2": "/other/about2.webp",
+              "features": [
+                "Curated curriculum designed alongside top tech companies",
+                "Interactive sandboxes, project reviews, and live code challenges",
+                "Transparent pricing with zero hidden subscription fees",
+                "Global peer community and mentor chat support round the clock"
+              ],
+              "button": {
+                "text": "Discover More ->",
+                "url": "/#courses"
+              },
+              "stats": {
+                "experience": "12+",
+                "experienceLabel": "Years of Excellence",
+                "badgeText": "Accessible Anywhere, 24/7"
+              }
+            }
+          }
+        },
+        "Courses": {
+          "variants": {
+            "OnlineCourseCourses2": {
+              "subtitle": "FEATURED TRACKS",
+              "title1": "Discover In-Demand ",
+              "title2": "Specializations",
+              "description": "Explore industry-certified masterclasses structured with practical milestones, code repositories, and capstone portfolio projects.",
+              "courses": [
+                {
+                  "id": "course-1",
+                  "category": "Software Engineering",
+                  "image": "/other/course_fullstack.webp",
+                  "rating": 4.9,
+                  "reviews": "2.4k",
+                  "title": "Modern Full-Stack Engineering",
+                  "description": "Architect scalable web applications from scratch utilizing Next.js, Node APIs, databases, and container deployment.",
+                  "lessons": "8 Modules",
+                  "duration": "28h Content",
+                  "level": "All Levels",
+                  "price": "₹4,999",
+                  "originalPrice": "₹8,999",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "course-2",
+                  "category": "Creative Design",
+                  "image": "/other/course_graphic_design.webp",
+                  "rating": 4.8,
+                  "reviews": "1.9k",
+                  "title": "Visual Identity & Brand Architecture",
+                  "description": "Master typography, Figma, Adobe creative tools, and brand narrative design to craft captivating consumer identities.",
+                  "lessons": "7 Modules",
+                  "duration": "20h Content",
+                  "level": "Intermediate",
+                  "price": "₹3,999",
+                  "originalPrice": "₹6,999",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "course-3",
+                  "category": "Growth & Business",
+                  "image": "/other/course_digital_marketing.webp",
+                  "rating": 4.7,
+                  "reviews": "1.5k",
+                  "title": "Growth Marketing & Brand Strategy",
+                  "description": "Accelerate customer acquisition with performance marketing, conversion tracking, modern SEO, and viral social campaigns.",
+                  "lessons": "6 Modules",
+                  "duration": "18h Content",
+                  "level": "Foundational",
+                  "price": "₹2,999",
+                  "originalPrice": "₹5,999",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "course-4",
+                  "category": "Applied AI",
+                  "image": "/other/course_python.webp",
+                  "rating": 4.9,
+                  "reviews": "2.1k",
+                  "title": "Python for Data & Predictive AI",
+                  "description": "Unlock exploratory analysis, data pipelines, and machine learning models with hands-on Jupyter workspaces.",
+                  "lessons": "9 Modules",
+                  "duration": "24h Content",
+                  "level": "Advanced",
+                  "price": "₹4,499",
+                  "originalPrice": "₹8,999",
+                  "url": "/#contact"
+                }
+              ],
+              "viewDetailsText": "Contact Now"
+            }
+          }
+        },
+        "Process": {
+          "variants": {
+            "OnlineCourseProcess2": {
+              "subtitle": "ROADMAP TO SUCCESS",
+              "title1": "How You Will Succeed in ",
+              "title2": "4 Strategic Stages",
+              "description": "Our structured roadmap takes you step-by-step from foundational understanding to verifiable career accomplishment.",
+              "items": [
+                {
+                  "id": "step-1",
+                  "step": "01",
+                  "title": "Select Your Track",
+                  "description": "Pick an industry-aligned syllabus that matches your professional interests and aspirational career targets.",
+                  "icon": "FaDesktop",
+                  "colorClass": "text-[var(--color-blue-500)]",
+                  "badgeClass": "bg-[var(--color-blue-500)]",
+                  "bgClass": "bg-[var(--color-blue-100)]"
+                },
+                {
+                  "id": "step-2",
+                  "step": "02",
+                  "title": "Interactive Practice",
+                  "description": "Follow concise video breakdowns, complete guided sandbox drills, and tackle practical milestone exercises.",
+                  "icon": "FaFileAlt",
+                  "colorClass": "text-[var(--color-category-pink)]",
+                  "badgeClass": "bg-[var(--color-category-pink)]",
+                  "bgClass": "bg-[var(--color-category-pink-soft)]"
+                },
+                {
+                  "id": "step-3",
+                  "step": "03",
+                  "title": "Build Portfolio Proof",
+                  "description": "Construct real-world capstone projects with mentor feedback that tangibly demonstrate your capabilities.",
+                  "icon": "FaLaptop",
+                  "colorClass": "text-[var(--color-green-500)]",
+                  "badgeClass": "bg-[var(--color-green-500)]",
+                  "bgClass": "bg-[var(--color-green-100)]"
+                },
+                {
+                  "id": "step-4",
+                  "step": "04",
+                  "title": "Graduate & Get Hired",
+                  "description": "Claim your verifiable credential, polish your developer profile, and leverage our career network.",
+                  "icon": "FaAward",
+                  "colorClass": "text-[var(--color-category-orange)]",
+                  "badgeClass": "bg-[var(--color-category-orange)]",
+                  "bgClass": "bg-[var(--color-category-orange-soft)]"
+                }
+              ]
+            }
+          }
+        },
+        "Instructors": {
+          "variants": {
+            "OnlineCourseInstructors2": {
+              "subtitle": "FACULTY & ADVISORS",
+              "title1": "Learn Alongside Veteran\\n",
+              "title2": "Domain Leaders",
+              "description": "Our mentors have built software at hyper-growth tech startups and shaped top creative agencies. They bring practical insight, code craftsmanship, and pragmatic career advice into every lecture.",
+              "contactUrl": "/#contact",
+              "instructors": [
+                {
+                  "id": "priya-sharma",
+                  "name": "Priya Sharma",
+                  "role": "Lead Cloud & Frontend Architect",
+                  "image": "/other/instructor1.webp",
+                  "bio": "Ex-tech lead with 8+ years building enterprise web solutions. Passionate about empowering students to write clean, resilient full-stack code."
+                },
+                {
+                  "id": "rahul-mehta",
+                  "name": "Rahul Mehta",
+                  "role": "Growth & Analytics Consultant",
+                  "image": "/other/instructor2.webp",
+                  "bio": "Growth strategist who has scaled consumer platforms to millions of users through data-driven acquisition and conversion funnels."
+                },
+                {
+                  "id": "anjali-verma",
+                  "name": "Anjali Verma",
+                  "role": "Product Designer & Art Director",
+                  "image": "/other/instructor3.webp",
+                  "bio": "Award-winning creative director specializing in interactive interfaces, brand narrative architecture, and human-centric design systems."
+                },
+                {
+                  "id": "vikram-singh",
+                  "name": "Vikram Singh",
+                  "role": "Principal Machine Learning Scientist",
+                  "image": "/other/instructor4.webp",
+                  "bio": "AI researcher and practitioner focused on production-ready neural architectures and practical enterprise intelligence pipelines."
+                }
+              ],
+              "contactText": "Talk to an Advisor"
+            }
+          }
+        },
+        "Testimonials": {
+          "variants": {
+            "OnlineCourseTestimonials2": {
+              "subtitle": "STUDENT SUCCESS STORIES",
+              "title1": "Voices From Our Global ",
+              "title2": "Alumni Network",
+              "description": "Hear how our graduates made career switches, earned salary bumps, and built transformative portfolios.",
+              "testimonials": [
+                {
+                  "id": "testi1",
+                  "name": "Sneha Verma",
+                  "location": "Junior Frontend Engineer at TechCorp",
+                  "quote": "The project-first curriculum completely demystified full-stack architecture. Building genuine capstone applications gave me the exact confidence I needed to ace my technical interviews.",
+                  "rating": 5,
+                  "avatar": "/other/alumni1.webp"
+                },
+                {
+                  "id": "testi2",
+                  "name": "Rohit Sharma",
+                  "location": "Analytics Associate at DataSphere",
+                  "quote": "Exceptional teaching quality. The lessons go straight to the point with zero fluff, and the mentor code reviews felt like working on an authentic engineering team.",
+                  "rating": 5,
+                  "avatar": "/other/alumni2.webp"
+                },
+                {
+                  "id": "testi3",
+                  "name": "Anjali Mehta",
+                  "location": "Performance Marketer at GrowthLabs",
+                  "quote": "The flexibility allowed me to balance my job while upskilling during evenings. The frameworks I learned directly improved our marketing ROI in my first month.",
+                  "rating": 5,
+                  "avatar": "/other/alumni3.webp"
+                }
+              ]
+            }
+          }
+        },
+        "Contact": {
+          "variants": {
+            "OnlineCourseContact2": {
+              "subtitle": "GET IN TOUCH",
+              "title1": "Connect With Our ",
+              "title2": "Admissions Team",
+              "description": "Have questions about curriculum tracks, tuition plans, or corporate team upskilling? Reach out to our advisors directly.",
+              "contactInfo": {
+                "phoneTitle": "Direct Admissions Line",
+                "phone": "+1 (555) 234-5678",
+                "emailTitle": "Academic Inquiries",
+                "email": "info@xyz.com",
+                "addressTitle": "Campus  ",
+                "address": "123 Main St, New York, NY, USA",
+                "hoursTitle": "Advising Hours",
+                "hoursLine1": "Monday – Saturday : 9:00 AM – 6:00 PM EST",
+                "hoursLine2": "Closed Sundays"
+              },
+              "form": {
+                "title": "Schedule a Free Counseling Session",
+                "description": "Fill in your details below and an academic advisor will guide you toward the ideal specialization path.",
+                "namePlaceholder": "Your Full Name *",
+                "emailPlaceholder": "Your Email Address *",
+                "phonePlaceholder": "Contact Phone Number",
+                "coursePlaceholder": "Interested Program (e.g. Full-Stack, AI, Design)",
+                "messagePlaceholder": "Share your background, current role, or questions...",
+                "buttonText": "Submit Inquiry"
+              },
+              "mapUrl": "https://maps.google.com",
+              "mapTitle": "NextSkill Global Headquarters"
+            }
+          }
+        }
+      },
+      "templateComponents": {
+        "shared": {
+          "Header": "OnlineCourseHeader2",
+          "Footer": "OnlineCourseFooter2"
+        },
+        "pages": {
+          "home": {
+            "components": [
+              {
+                "id": "page-home-1",
+                "key": "Header",
+                "component": "Header"
+              },
+              {
+                "id": "page-home-2",
+                "key": "Hero",
+                "component": "Hero"
+              },
+              {
+                "id": "page-home-3",
+                "key": "WhatWeDo",
+                "component": "WhatWeDo"
+              },
+              {
+                "id": "page-home-4",
+                "key": "AboutUs",
+                "component": "AboutUs"
+              },
+              {
+                "id": "page-home-5",
+                "key": "Courses",
+                "component": "Courses"
+              },
+              {
+                "id": "page-home-6",
+                "key": "Process",
+                "component": "Process"
+              },
+              {
+                "id": "page-home-7",
+                "key": "Instructors",
+                "component": "Instructors"
+              },
+              {
+                "id": "page-home-8",
+                "key": "Testimonials",
+                "component": "Testimonials"
+              },
+              {
+                "id": "page-home-9",
+                "key": "Contact",
+                "component": "Contact"
+              },
+              {
+                "id": "page-home-10",
+                "key": "Footer",
+                "component": "Footer"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

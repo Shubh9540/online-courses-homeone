@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Fonts */
+  --font-poppins: 'Poppins', sans-serif;
+  --font-primary: var(--font-poppins);
+  --font-heading: var(--font-poppins);
+
+  /* Palette 9: Monochrome Modernist + Neon Acid Lime */
+  --color-bg-main: #ffffff;          /* White Section Background */
+  --color-bg-card: #ffffff;
+  --color-bg-alt: #f4f4f5;           /* Hero Banner & Light Neutral Background */
+  --color-dark-section: #18181b;     /* Dark Section Background: Rich Dark Zinc */
+  --color-primary: #18181b;          /* Primary Brand Charcoal */
+  --color-primary-dark: #09090b;     /* Pitch Black */
+  --color-primary-light: #27272a;
+  --color-brand: #18181b;            /* Brand Accent */
+  --color-heading: #09090b;          /* Pitch Heading */
+  --color-heading-soft: #27272a;
+  --color-accent: #84cc16;           /* Electric Neon Acid Lime Accent */
+  --color-accent-light: #f7fee7;     /* Light Lime Wash */
+  --color-accent-muted: #bef264;     /* Soft Lime */
+  --color-text: #27272a;
+  --color-text-light: #71717a;
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-bg-light: #ffffff;
+  --color-border: #e4e4e7;
+  --color-surface-warm: #fafafa;
+  --color-surface-blue: #f4f4f5;
+  --color-surface-blue-3: #e4e4e7;
+  --color-footer-overlay: rgba(9, 9, 11, 0.95);
+  --color-slate-100: #f4f4f5;
+  --color-slate-200: #e4e4e7;
+  --color-slate-400: #a1a1aa;
+  --color-slate-500: #71717a;
+  --color-slate-600: #52525b;
+  --color-slate-700: #3f3f46;
+  --color-slate-800: #27272a;
+  --color-slate-900: #09090b;
+  --color-gray-100: #f4f4f5;
+  --color-gray-300: #d4d4d8;
+  --color-gray-500: #71717a;
+  --color-blue-50: #f7fee7;          /* Lime tint for badges */
+  --color-blue-100: #ecfccb;         /* Lime badge border */
+  --color-blue-200: #d9f99d;
+  --color-blue-300: #84cc16;         /* SVG decorative lines & underlines */
+  --color-blue-400: #84cc16;         /* Hero glow circle */
+  --color-blue-500: #84cc16;         /* Accent highlight */
+  --color-blue-600: #65a30d;
+  --color-blue-700: #4d7c0f;
+  --color-green-100: #f7fee7;
+  --color-green-500: #84cc16;        /* Neon Lime */
+  --color-amber-400: #fbbf24;
+  --color-orange-500: #f97316;
+  --color-category-blue: #18181b;
+  --color-category-green: #84cc16;
+  --color-category-amber: #f59e0b;
+  --color-category-purple: #8b5cf6;
+  --color-category-pink: #ec4899;
+  --color-category-pink-soft: #fce7f3;
+  --color-category-orange: #f97316;
+  --color-category-orange-soft: #ffedd5;
+  --color-facebook: #18181b;
+  --color-facebook-hover: #84cc16;
+  --color-instagram-start: #27272a;
+  --color-instagram-middle: #18181b;
+  --color-instagram-end: #09090b;
+  --color-linkedin: #18181b;
+  --color-linkedin-hover: #84cc16;
+  --color-youtube: #18181b;
+  --color-youtube-hover: #84cc16;
+  --color-shadow-3: rgba(0, 0, 0, 0.03);
+  --color-shadow-4: rgba(0, 0, 0, 0.04);
+  --color-shadow-6: rgba(0, 0, 0, 0.06);
+  --color-shadow-8: rgba(0, 0, 0, 0.08);
+  --color-brand-shadow-8: rgba(132, 204, 22, 0.15);
+}
+
+html,
+body {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+body {
+  color: var(--color-text);
+  background-color: var(--color-bg-main);
+}
